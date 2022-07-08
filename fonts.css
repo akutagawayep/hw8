@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "Hind-url";
+    src: url(../fonts/Hind-Light.ttf);
+}
+@font-face {
+    font-family: "Hind-text";
+    src: url(../fonts/Hind-Medium.ttf);
+}
+@font-face {
+    font-family:"Hind-heading ";
+    src: url(../fonts/Hind-Regular.ttf);
+}
